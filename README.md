@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/ITgeekbeginner/ITgeekbeginner/blob/main/header.png">
 
 <!--
 **ITgeekbeginner/ITgeekbeginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
